@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.android</groupId>
   <artifactId>aisdk</artifactId>
-  <version>1.002</version>
+  <version>1.01</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
